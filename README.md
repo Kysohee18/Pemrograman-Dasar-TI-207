@@ -54,7 +54,7 @@ Pastikan Anda sudah menginstal:
     git status
     ```
 
-## 📄 MIT License
+##  MIT License
 
 Proyek ini dilindungi di bawah lisensi **MIT**.
 
