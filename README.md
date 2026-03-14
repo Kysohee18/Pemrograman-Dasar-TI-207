@@ -21,7 +21,7 @@ Repositori ini didedikasikan untuk menyimpan seluruh arsip pembelajaran selama s
 Isi repositori meliputi:
 *   Materi pertemuan mingguan (pertemuan 1 - 16).
 *   Latihan soal dan pemecahan masalah.
-*   Tugas UCP (Ujian Capaian Pembelajaran).
+
 
 ## 🛠️ Cara Instalasi & Penggunaan
 
